@@ -1,0 +1,104 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F0F2F5;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    position: absolute;
+    top: 30%;
+    left: 14%;
+    font-size: 25px;
+}
+
+.container h1{
+    color: #2C83F2;
+}
+.warp-box{
+    
+}
+header{
+    width: 450px;
+    height: 350px;
+    position: absolute;
+    top: 20%;
+    left: 57%;
+    background-color: white;
+    border-style: none;
+    margin: auto;
+    border-radius: 7px;
+}
+.box{
+    margin-top: 15px;
+    position: relative;
+    left: 5px;
+}
+.box input{
+    border-radius: 7px;
+    width: 85%;
+   position: relative;
+   top: 20px;
+   left: 30px;
+   right: 30px;
+    padding: 15px 20px;
+}
+.box-1{
+margin-bottom: 15px;
+}
+
+.link{
+    width: 85%;
+    text-align: center;
+    background-color: #2C83f2;
+    margin-top: 40px;
+    margin-left: 34px;
+    padding: 11px;
+    border-radius: 7px;
+}
+
+.link a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.link1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.link1 a{
+    text-decoration: none;
+    color: #2C83f2;
+    font-size: 15px;
+}
+
+.link2{
+    width: 65%;
+    margin: 10%;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 75px;
+    background-color: #36A420;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.link2 a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+ a{
+    color: black;
+    text-decoration: none;
+    margin-top: 100px;
+    text-align: center;
+}
